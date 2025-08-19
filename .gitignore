@@ -1,0 +1,27 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# Python (in case you add scripts later)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+
+# Markdown/notes tools
+*.log
+*.bak
+*.tmp
+
+# Exports
+*.pdf
+*.html
